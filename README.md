@@ -48,6 +48,12 @@ NipoVPN GUI is a sleek desktop client built with Svelte and Tauri that provides 
 
 Download the latest release from the [Releases](https://github.com/Ar4mus/NipoVPN-GUI/releases) page.
 
+### v0.2.0-beta Downloads
+
+- [Portable ZIP](https://github.com/Ar4mus/NipoVPN-GUI/releases/download/v0.2.0-beta/nipovpn-gui_0.2.0_x64-Portable.zip)
+- [Windows Installer EXE](https://github.com/Ar4mus/NipoVPN-GUI/releases/download/v0.2.0-beta/nipovpn-gui_0.2.0_x64-setup.exe)
+- [Windows MSI Installer](https://github.com/Ar4mus/NipoVPN-GUI/releases/download/v0.2.0-beta/nipovpn-gui_0.2.0_x64_en-US.msi)
+
 - **Installer version**: Download and install it like a normal Windows application.
 - **Portable version**: Download the ZIP file and run the app without installation.
 
