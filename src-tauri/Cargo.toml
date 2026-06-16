@@ -1,6 +1,6 @@
 [package]
 name = "NipoVPN-GUI"
-version = "0.2.0"
+version = "0.2.1"
 description = "A sleek, cross-platform desktop GUI for NipoVPN, built with Tauri and Svelte. Features seamless proxy profile management, real-time connection monitoring, low-latency checking, and interactive logs."
 authors = ["SattarBayat"]
 license = "GPL-3.0"
